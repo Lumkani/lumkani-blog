@@ -1,0 +1,14 @@
+{
+  "name": "lumkani-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Lumkani/lumkani-blog.git",
+  "author": "shailen <shailen@lumkani.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^1.0.3"
+  },
+  "scripts": {
+    "docs:build": "npx vuepress build"
+  }
+}
