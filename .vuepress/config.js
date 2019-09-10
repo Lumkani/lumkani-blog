@@ -24,11 +24,11 @@ module.exports = {
         link: 'https://lumkani.com'
       },
     ],
-    sidebar: [
-      '/stories/',
-      '/tutorials/',
-      '/updates/',
-    ],
+    // sidebar: [
+    //   '/stories/',
+    //   '/tutorials/',
+    //   '/updates/',
+    // ],
     sidebarDepth: 2,
     activeHeaderLinks: true,
   },
