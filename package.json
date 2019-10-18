@@ -6,9 +6,10 @@
   "author": "shailen <shailen@lumkani.com>",
   "license": "MIT",
   "dependencies": {
-    "vuepress": "^1.0.3"
+    "vuepress": "^1.2.0"
   },
   "scripts": {
+    "dev": "npx vuepress dev",
     "docs:build": "npx vuepress build"
   }
 }
