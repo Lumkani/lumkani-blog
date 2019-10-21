@@ -1,14 +1,7 @@
 ---
-language: Java
+language: Go
 title: Hello World
 dev: true
 images: []
 
 ---
-# Hello
-
-asdfghj
-
-sdfghjk
-
-sdfghj
