@@ -1,4 +1,32 @@
 ---
 label: Document
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: dev
+  type: boolean
+  label: Dev
+- name: language
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - JavaScript
+    - Java
+    - Go
+    - Dart
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Language
+- name: images
+  type: image_gallery
+  config: {}
+  label: Images
