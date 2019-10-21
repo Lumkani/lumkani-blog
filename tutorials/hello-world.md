@@ -1,10 +1,9 @@
 ---
 language: JavaScript
 title: Hello World
-dev: true
+dev: false
 images:
 - "/uploads/18303687.png"
 - "/uploads/Untitled design.png"
 
 ---
-# 
