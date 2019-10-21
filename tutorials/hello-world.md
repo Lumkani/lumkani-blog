@@ -1,6 +1,6 @@
 ---
 language: JavaScript
-title: Hello World
+title: Hello World Hello World
 dev: true
 images: []
 
