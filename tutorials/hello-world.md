@@ -1,5 +1,5 @@
 ---
-language: JavaScript
+language: Java
 title: Hello World
 dev: false
 images:
