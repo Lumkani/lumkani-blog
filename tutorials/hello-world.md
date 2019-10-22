@@ -1,6 +1,6 @@
 ---
 language: Go
-title: Hello World Hello World
+title: 'Hello World '
 dev: true
 images: []
 
