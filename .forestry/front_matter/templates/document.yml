@@ -30,5 +30,3 @@ fields:
   type: image_gallery
   config: {}
   label: Images
-pages:
-- tutorials/hello-world.md
