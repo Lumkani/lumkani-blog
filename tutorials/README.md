@@ -31,7 +31,7 @@ This is one of our most important stage. The task owner is responsible to think 
 Here is where the developer analises the existing subtask, creates more aligning with deployment strateges, we do our best so each subtask is deployable independently from any other task or deployment of other application. The subtask are not create based on writting code only, but with the perspective as <strong>"how can this task be deployed?"</strong>.
 </p>
 <p>
-It happenes that the task is actually different from expected when prioritized or there are more blockers than antecipated. So at the end of this stage, the developer aligns with the team if the cost and value of the current task still makes sense to be done now given our long-term goals.
+It happenes that the task is actually different from expected when prioritized or there are more blockers than antecipated. So at the end of this stage, the developer aligns with the team if the cost and value of the current task still makes sense to be done, given our long-term goals.
 </p>
 </li>
 
@@ -46,7 +46,7 @@ When the task is at this stage, it means that after the investigation the team h
 <li>
 <strong>In development</strong>
 <p>
-someone started to work on the task. The task owner creates a <strong>feature branch</strong> and starts to have fun with it.
+Someone has started to work on the task. The task owner creates a <strong>feature branch</strong> and starts to have fun with it. Initially, the <strong>Main task (or Story)</strong> stays in <strong>Selected for developement</strong> stage and only the subtasks are moved to other stage. If any new task is needed to be created due to a new information found or, sometimes, a bug, it is created under the  <strong>Main task</strong>.
 </p>
 </li>
 
