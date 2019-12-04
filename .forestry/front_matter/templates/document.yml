@@ -8,6 +8,6 @@ fields:
     required: false
   label: Description
 pages:
-- articles/README.md
 - articles/better-testing-in-vue-with-the-viewmodel-api.md
+- articles/README.md
 - articles/lumkani-deployment-strategy.md
