@@ -8,4 +8,5 @@ fields:
     required: false
   label: Description
 pages:
+- articles/README.md
 - tutorials/lumkani-deployment-strategy.md
