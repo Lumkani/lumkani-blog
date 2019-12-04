@@ -1,4 +1,9 @@
 ---
 label: Document
 hide_body: false
-fields: []
+fields:
+- name: description
+  type: text
+  config:
+    required: false
+  label: Description
