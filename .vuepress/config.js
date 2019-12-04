@@ -9,7 +9,7 @@ module.exports = {
     nav: [
       {
         text: 'Articles 📚',
-        link: '/stories/'
+        link: '/articles/'
       },
       {
         text: 'Tutorials 📼',
