@@ -1,4 +1,4 @@
-## Tutorials
+## Tech
 
 ### Lumkani deployment strategy 🚀
 
