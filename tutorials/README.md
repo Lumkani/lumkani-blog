@@ -1,6 +1,3 @@
-+++
-
-+++
 ## Lumkani's Deployment Strategy 📚
 
 ### Branches
