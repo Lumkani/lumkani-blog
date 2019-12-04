@@ -2,4 +2,4 @@
 description: ''
 
 ---
-# Dependency injection with the ViewModel API
+# Better testing with the ViewModel API
