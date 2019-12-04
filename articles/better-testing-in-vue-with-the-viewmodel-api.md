@@ -2,4 +2,4 @@
 description: ''
 
 ---
-# Better testing with the ViewModel API
+# Better testing in Vue with the ViewModel API
