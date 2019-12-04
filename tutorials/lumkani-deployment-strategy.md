@@ -2,7 +2,7 @@
 description: ''
 
 ---
-## Lumkani's Deployment Strategy 📚
+## Lumkani's Deployment Strategy 🚀
 
 ### Branches
 
