@@ -4,4 +4,4 @@
 
 A comprehensive guide on how we do deployments at Lumkani
 
-[Read article](/tutorials/lumkani-deployment-strategy.html)
+[Read article](/tech/lumkani-deployment-strategy.html)
