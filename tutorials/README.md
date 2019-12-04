@@ -1,6 +1,3 @@
-+++
-
-+++
 ## Tutorials
 
 ### Lumkani deployment strategy 🚀
