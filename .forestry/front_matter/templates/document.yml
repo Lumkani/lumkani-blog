@@ -8,5 +8,6 @@ fields:
     required: false
   label: Description
 pages:
-- articles/README.md
+- articles/dependency-injection-with-the-viewmodel-api.md
 - articles/lumkani-deployment-strategy.md
+- articles/README.md
