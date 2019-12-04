@@ -8,7 +8,7 @@ description: ''
 
 A comprehensive guide on how we do deployments at Lumkani
 
-[**Read article**](/articles/lumkani-deployment-strategy.html)
+[Read article](/articles/lumkani-deployment-strategy.html)
 
 ### Better testing in Vue with the ViewModel API
 
